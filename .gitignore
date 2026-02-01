@@ -1,0 +1,7 @@
+# Build directories
+bin/
+build/
+obj/
+
+# Progress files
+progress/
